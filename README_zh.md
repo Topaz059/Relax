@@ -34,7 +34,7 @@
 
 ______________________________________________________________________
 
-**Relax**（**R**einforcement **E**ngine **L**everaging **A**gentic **X**-modality）是小红书 AI 平台开源的、面向多模态大模型的高性能强化学习后训练框架。Relax 基于 Ray Serve 构建面向服务的架构，以 Megatron-LM 为训练后端、SGLang 为推理引擎，通过 [TransferQueue](https://github.com/redai-infra/TransferQueue) 数据传输系统实现训练与推理的完全解耦，支持从文本到图像、视频、音频的全模态强化学习训练。
+**Relax**（**R**einforcement **E**ngine **L**everaging **A**gentic **X**-modality）是小红书 AI 平台开源的、面向多模态大模型的高性能强化学习后训练框架。Relax 基于 Ray Serve 构建面向服务的架构，以 Megatron-LM 为训练后端、SGLang 为推理引擎，通过 [TransferQueue](https://github.com/redai-infra/TransferQueue) 数据传输系统实现训练与推理的完全解耦，支持从文本到图像、视频的全模态强化学习训练。
 
 ______________________________________________________________________
 
